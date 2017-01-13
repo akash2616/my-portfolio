@@ -1,0 +1,22 @@
+{
+  "name": "my-portfolio-master",
+  "version": "1.0.0",
+  "description": "my portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:akash2616/my-portfolio.git"
+  },
+  "keywords": [
+    "akash"
+  ],
+  "author": "akash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash2616/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/akash2616/my-portfolio"
+}
